@@ -1,0 +1,25 @@
+export const GROUPTYPE = {
+    GETALL: {
+        FETCH: "GROUP/GETALL",
+        SUCCESS: "GROUP/GETALL/SUCCESS",
+        ERROR: "GROUP/GETALL/ERROR",
+    },
+    CREATE: {
+        FETCH: "GROUP/CREATE",
+        SUCCESS: "GROUP/CREATE/SUCCESS",
+        ERROR: "GROUP/CREATE/ERROR",
+    },
+    UPDATE: {
+        FETCH: "GROUP/UPDATE",
+        SUCCESS: "GROUP/UPDATE/SUCCESS",
+        ERROR: "GROUP/UPDATE/ERROR",
+    },
+    REMOVE: {
+        FETCH: "GROUP/REMOVE",
+        SUCCESS: "GROUP/REMOVE/SUCCESS",
+        ERROR: "GROUP/REMOVE/ERROR",
+    },
+    RESET: {
+        FETCH: "GROUP/RESET",
+    }
+}

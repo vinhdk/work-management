@@ -1,0 +1,1 @@
+export * from "./work-home/work-home.component";

@@ -1,0 +1,6 @@
+<resources>
+    <color name="colorAccent">#ffffff</color>
+    <color name="splashscreen_bg">#BEE</color>
+    <color name="app_bg">#f2f2f2</color>
+    <color name="status_bar_color">#ffffff</color>
+</resources>

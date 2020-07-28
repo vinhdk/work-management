@@ -1,0 +1,1 @@
+export * from "./group-home/group-home.component";
