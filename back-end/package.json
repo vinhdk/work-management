@@ -63,7 +63,7 @@
         "sequelize-auto-migrations": "^1.0.3",
         "sequelize-cli": "^5.5.1",
         "sequelize-typescript": "^1.1.0",
-        "socket.io": "^2.3.0",
+        "socket.io": "^2.5.0",
         "swagger-ui-express": "^4.1.2",
         "typescript-require": "^0.2.10",
         "uuidv4": "^5.0.1"
